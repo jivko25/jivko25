@@ -1,4 +1,4 @@
-My Github Stats:
+My Github Stats: 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jivko25&theme=dark&count_private=true)](https://git.io/streak-stats)
 
